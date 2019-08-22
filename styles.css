@@ -1,10 +1,13 @@
 img {
+
 	width: 30%;
 	float: left;
-	margin: 1.66%; /*This number is gotten using the width percent and dividing it by how many margins we need to take into account which is 6 */
+	margin: 1.66%;
+ /*This number is gotten using the width percent and dividing it by how many margins we need to take into account which is 6 */
 }
 
 p {
+
 	font-family: Raleway;
 	margin-left: 1.66%;
 	font-size: 23px;
@@ -13,4 +16,5 @@ p {
 	border-bottom: 3px solid red;
 	width: 30%;
 	padding-bottom: 10px;
+
 }
